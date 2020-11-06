@@ -1,9 +1,11 @@
 Hello World!
 
-Change 1: For login feature
+Change 1: -> For login feature
 
-Change 2: For fixing bug1
+Change 2: -> For fixing bug1
 
-Change 3: by team mate on master for WI4
+Change 3: -> by team mate on master for WI4
 
-Change 4: For fixing bug2
+Change 4: -> For fixing bug2
+
+Change 5: -> by team mate on master for WI5
