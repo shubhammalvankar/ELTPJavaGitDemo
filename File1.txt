@@ -1,5 +1,7 @@
 Hello World!
 
-Change for login feature
+Change 1: For login feature
 
-Change 2 for fixing bug1
+Change 2: For fixing bug1
+
+Change 3: For fixing bug2
