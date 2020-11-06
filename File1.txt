@@ -1,6 +1,6 @@
 Hello World!
 
-Change 1: -> For login feature
+Change 1: -> For login feature, enhancement in login feature with condition
 
 Change 2: -> For fixing bug1
 
@@ -9,3 +9,5 @@ Change 3: -> by team mate on master for WI4
 Change 4: -> For fixing bug2
 
 Change 5: -> by team mate on master for WI5
+
+Change 6: -> For enhancement1
