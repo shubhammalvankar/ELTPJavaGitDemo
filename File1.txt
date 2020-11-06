@@ -11,3 +11,5 @@ Change 4: -> For fixing bug2.
 Change 5: -> by team mate on master for WI5.
 
 Change 6: -> For enhancement1.
+
+Change 7: -> Push to origin master from local master
