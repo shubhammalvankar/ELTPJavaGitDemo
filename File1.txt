@@ -17,3 +17,5 @@ Change 7:-> Push to origin master from local master
 Change 8:-> By team mate on remote master to test rebase WI7.
 
 Change 9:-> On local master to test rebase for WI8.
+
+Change 10:-> Test simple operation from remote to local WI9 by team mate
