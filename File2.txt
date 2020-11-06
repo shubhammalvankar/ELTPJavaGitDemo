@@ -1,1 +1,3 @@
 Welcome to Git Demo
+
+Check that work can be saved half done using stash
